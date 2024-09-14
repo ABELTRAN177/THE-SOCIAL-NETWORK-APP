@@ -4,6 +4,7 @@
 <img width="1800" alt="Screenshot 2024-09-14 at 1 13 28 PM" src="https://github.com/user-attachments/assets/2437853f-d76d-4ce4-91ca-c0b670c7794b">
 
   ## Description
+  With the help of our instructor for this assignment, we were to develop a social networking application where users can post, create, and delete throughts, friends, and reactions. The purpose of the assignment was to showcase the routes necessary to accomplish each task. Using Insomina we showcased the routes as well as a mini demo that added each of the as well as showing the delete option for thoughts and friends!
 
   ## Table of Contents
   1. [Description](#description)
@@ -23,7 +24,7 @@
     Manny/ Angel Beltran 
   
   ## Testing
-    run node or nodemon index.js in the terminal/integrated terminal 
+    run node or node server.js in the terminal/integrated terminal 
 
   ## Video Walkthrough 
   https://watch.screencastify.com/v/Kuo5UJ1M4eFOGwe1lVpZ
